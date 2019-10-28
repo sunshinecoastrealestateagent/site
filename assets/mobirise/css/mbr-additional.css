@@ -1396,10 +1396,16 @@ section.lazy-placeholder:after {
   -webkit-justify-content: center;
 }
 .cid-rFUeAkdksL .testimonials-container .testimonials-item .user {
-  background: rgba(255,255,255, 0.9);
-  -webkit-box-shadow : 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  background: rgba(255,255,255, 0.8);
+	-webkit-box-shadow : 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 	-moz-box-shadow : 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 	box-shadow : 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+.cid-rFUeAkdksL .testimonials-container .testimonials-item .user:hover {
+  background: rgba(255,255,255, 0.8);
+	-webkit-box-shadow : 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+	-moz-box-shadow : 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+	box-shadow : 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
 .cid-rFUeAkdksL .testimonials-container .testimonials-item .user.row {
   margin: 0;
