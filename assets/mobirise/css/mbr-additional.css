@@ -1397,6 +1397,9 @@ section.lazy-placeholder:after {
 }
 .cid-rFUeAkdksL .testimonials-container .testimonials-item .user {
   background: rgba(255,255,255, 0.9);
+  -webkit-box-shadow : 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+	-moz-box-shadow : 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+	box-shadow : 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 }
 .cid-rFUeAkdksL .testimonials-container .testimonials-item .user.row {
   margin: 0;
