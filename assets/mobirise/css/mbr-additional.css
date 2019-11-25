@@ -710,13 +710,14 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-rFTSYeONDD .navbar {
-  background: #004b73;
+  background-image: url("../.../assets/images/NEXTbackground_header-1.png");
+  background-repeat: repeat-y;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-rFTSYeONDD .navbar-dropdown.bg-color.transparent.opened {
-  background: #004b73;
+  background: #034b73;
 }
 .cid-rFTSYeONDD a {
   font-style: normal;
